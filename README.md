@@ -21,12 +21,12 @@
 			},
 			{
 				"network": "linkedin",
-				"username": "AARYAN CHOUDHARY",
+				"username": "Harshith Reddy",
 				"url": "https://www.linkedin.com/in/harshith-reddy-10a907205/"
 			},
 			{
 				"network": "Instagram",
-				"username": "hawk_aaryan",
+				"username": "harshith_abhi_",
 				"url": "https://www.instagram.com/harshith_abhi_/"
 			}
 		]
